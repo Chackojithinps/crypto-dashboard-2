@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/crypto-dashboard-2/static/css/main.2c65cefb.css",
+    "main.js": "/github.io/crypto-dashboard-2/static/js/main.10b9f16b.js",
+    "static/media/cryptoMobile.png": "/github.io/crypto-dashboard-2/static/media/cryptoMobile.080029ada53f0cd57453.png",
+    "static/media/blueShade.png": "/github.io/crypto-dashboard-2/static/media/blueShade.571b4abb2c77974f6433.png",
+    "index.html": "/github.io/crypto-dashboard-2/index.html",
+    "main.2c65cefb.css.map": "/github.io/crypto-dashboard-2/static/css/main.2c65cefb.css.map",
+    "main.10b9f16b.js.map": "/github.io/crypto-dashboard-2/static/js/main.10b9f16b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c65cefb.css",
+    "static/js/main.10b9f16b.js"
+  ]
+}
